@@ -1,1 +1,1 @@
-# AsymNMF
+# AsymAMF
